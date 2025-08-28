@@ -77,7 +77,7 @@ This project demonstrates the complete development lifecycle of a dynamic and in
 
 ## Dashboard Screenshots
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](Road_accident_dashboard.png)
 
 ## Key Insights
 
