@@ -207,17 +207,7 @@ This project follows a systematic **9-step approach:**
 | 8️⃣ | **Design & Visualization** | Developed user interface |
 | 9️⃣ | **Dashboard Development** | Built final interactive solution |
 
-## 🔄 Data Updates
 
-To update with new data:
-
-```bash
-1. Replace Excel file (maintain same structure)
-2. Open Power BI Desktop
-3. Navigate to: Home → Transform Data → Refresh Preview
-4. Close & Apply changes
-5. Verify data integrity
-```
 
 ## License
 
