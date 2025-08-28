@@ -1,9 +1,5 @@
 # Road Accident Analysis Dashboard
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge&logo=dax&logoColor=white)
-
 > A comprehensive Power BI dashboard analyzing UK road traffic accident data to provide actionable insights for road safety improvement and accident prevention strategies.
 
 ## Table of Contents
@@ -16,7 +12,6 @@
 - [Installation & Usage](#installation--usage)
 - [Technical Implementation](#technical-implementation)
 - [Project Methodology](#project-methodology)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -224,43 +219,9 @@ To update with new data:
 5. Verify data integrity
 ```
 
-## 📈 Performance Metrics
-
-- **Load Time:** < 5 seconds
-- **Data Rows:** 300,000+
-- **Refresh Time:** < 30 seconds
-- **File Size:** ~25MB
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-### How to Contribute:
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ⭐ Star History
-
-If this project helped you, please consider giving it a ⭐!
-
----
-
-<div align="center">
-
-**Made with ❤️ and Power BI**
-
-*Driving road safety through data-driven insights*
 
 </div>
