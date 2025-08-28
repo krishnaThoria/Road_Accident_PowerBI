@@ -77,7 +77,7 @@ This project demonstrates the complete development lifecycle of a dynamic and in
 
 ## Dashboard Screenshots
 
-*[Add screenshots of your dashboard here]*
+![Dashboard Overview](images/dashboard-overview.png)
 
 ## Key Insights
 
